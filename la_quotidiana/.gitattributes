@@ -1,0 +1,6 @@
+sursilv.txt filter=lfs diff=lfs merge=lfs -text
+sutsilv.txt filter=lfs diff=lfs merge=lfs -text
+vallader.txt filter=lfs diff=lfs merge=lfs -text
+puter.txt filter=lfs diff=lfs merge=lfs -text
+rumgr.txt filter=lfs diff=lfs merge=lfs -text
+surmiran.txt filter=lfs diff=lfs merge=lfs -text
